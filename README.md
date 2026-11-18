@@ -1,2 +1,2 @@
-# Build-and-Merge-a-Network
+# Enterprise Network Integration Project
 This project involved planning and implementing the merger of two enterprise networks. Responsibilities included designing the network architecture, creating documentation, configuring networking devices, validating connectivity, and presenting technical and nontechnical findings. The project emphasized routing, subnetting, network documentation, collaboration, and troubleshooting.
